@@ -1,8 +1,8 @@
 # esx-heaven-deathscreen-coj
 
-WORK IN PROGRESS!WORK IN PROGRESS!WORK IN PROGRESS!
-WORK IN PROGRESS!WORK IN PROGRESS!WORK IN PROGRESS!
-WORK IN PROGRESS!WORK IN PROGRESS!WORK IN PROGRESS!
+WIP!
+WIP!
+WIP!
 
 Custom Deathscreen for the official German City of Jungles RP Server
 
